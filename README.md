@@ -1,1 +1,1 @@
-# NoSQL-Databases---Data-Modeling-with-Apache-Cassandra.
+# NoSQL-Databases-Data-Modeling-with-Apache-Cassandra.
